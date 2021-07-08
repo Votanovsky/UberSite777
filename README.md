@@ -1,2 +1,3 @@
 # UberSite777
-Вёрстка макета "Uber" (функционал с использованием jquery и bootstrap)
+Вёрстка макета "Uber".
+Технологии: html, css, js + jquery
