@@ -1,3 +1,3 @@
 # UberSite777
 Вёрстка макета "Uber".
-Технологии: html, css, js + jquery
+Технологии: html, css + bootstrap, js + jquery
